@@ -441,7 +441,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "pcb-rounded.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
