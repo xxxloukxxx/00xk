@@ -12,4 +12,4 @@ Pour Gigi ... Exploded One
 
 à voir car pas de place pour le Promicro
 
-![](img/keyboard-layout-little.png)
+![](img/keyboard-layout-big.png)
