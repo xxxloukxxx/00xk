@@ -23,17 +23,17 @@ $INSBASE
   9
 $EXTMIN
  10
--0.5
+0
  20
--0.5
+0
  30
 0
   9
 $EXTMAX
  10
-276.725
+276.225
  20
-81.46250000000001
+80.96250000000001
  30
 0
   9
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-139.4655
+139.0920212765958
  22
-63.44187500000001
+59.94670212765958
  13
 0
  23
@@ -1143,9 +1143,9 @@ AcDbViewportTableRecord
  37
 0
  40
-172.7325
+158.6824468085107
  41
-1.62962962962963
+1.765432098765432
  42
 50
  43
@@ -2257,7 +2257,7 @@ AcDbLayerTableRecord
   2
 noname
  70
-    4
+    5
  62
     1
   6
@@ -2279,7 +2279,7 @@ AcDbLayerTableRecord
   2
 noname1
  70
-    4
+    5
  62
     5
   6
@@ -2301,7 +2301,7 @@ AcDbLayerTableRecord
   2
 noname2
  70
-    0
+    5
  62
     3
   6
@@ -2323,7 +2323,7 @@ AcDbLayerTableRecord
   2
 noname3
  70
-    4
+    5
  62
     6
   6
@@ -2345,7 +2345,7 @@ AcDbLayerTableRecord
   2
 noname4
  70
-    0
+    5
  62
     4
   6
