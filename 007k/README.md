@@ -8,6 +8,10 @@ Pour Gigi ... Exploded One
 
 ![](img/keyboard-layout-little.png)
 
+![](img/pcb.png)
+
+![](img/case.png)
+
 ## Big
 
 à voir car pas de place pour le Promicro
