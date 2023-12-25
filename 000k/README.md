@@ -18,4 +18,4 @@ Clavier 40% perso avec une ligne en plus pour les Fx ... compatible QMK.
 
 ## Layout
 
-![](img/keyboard-layout.png)
+![](img/keyboard-layout.svg)
