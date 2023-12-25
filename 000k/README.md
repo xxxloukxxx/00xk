@@ -2,17 +2,17 @@
 
 Clavier 40% perso avec une ligne en plus pour les Fx ... compatible QMK.
 
-![plop](2023-11-29_18-22.png)
+![plop](img/2023-11-29_18-22.png)
 
-![plop](2023-11-29_18-26.png)
+![plop](img/2023-11-29_18-26.png)
 
 Boîtier en 2 parties à imprimer normal et symétrique
 
-![plop](2023-11-29_21-42.png)
+![plop](img/2023-11-29_21-42.png)
 
 ## Layout
 
-![plop](keyboard-layout.png)
+![plop](img/keyboard-layout.png)
 
 ```
 [{x:1.25,t:"#000000\n#00ff00",a:0,f2:2},"\nTO(0)\n\n\n01\n\n\n\n\nEsc",{x:0.25,t:"#000000\n\n\n#ff0000",f2:2},"\n\n\nMute\n02\n\n\n\n\nF1",{f2:2},"\n\n\nVol(-)\n03\n\n\n\n\nF2",{f2:2},"\n\n\nVol(+)\n04\n\n\n\n\nF3",{f2:2},"\n\n\nPlay\n05\n\n\n\n\nF4",{x:0.25,f2:2},"\n\n\nF9\n06\n\n\n\n\nF5",{f2:2},"\n\n\nF10\n46\n\n\n\n\nF6",{f2:2},"\n\n\nF11\n45\n\n\n\n\nF7",{f2:2},"\n\n\nF12\n44\n\n\n\n\nF8",{x:0.25,t:"#000000\n#00ff00",f2:2},"\nReset\n\n\n43\n\n\n\n\nDel"],
