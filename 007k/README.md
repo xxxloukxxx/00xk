@@ -1,19 +1,35 @@
 # 007k
 
-Pour Gigi ... Exploded One
+Pour Gigi ... Exploded (little and big)
 
 ## Little
 
 ... et pourquoi pas avec un OLED ?
 
-![](img/keyboard-layout-little.png)
+![](img/pcb-little.png)
 
-![](img/pcb.png)
+![](img/kicad-little.png)
 
-![](img/case.png)
+### Case
+
+![](img/case-little-1.1.png)
+
+![](img/case-little-2.0.png)
+
+### Layout
+
+![](img/keyboard-layout-little.svg)
 
 ## Big
 
-à voir car pas de place pour le Promicro
+![](img/pcb-big.png)
 
-![](img/keyboard-layout-big.png)
+![](img/kicad-big.png)
+
+### Case
+
+![](img/case-big.png)
+
+### Layout
+
+![](img/keyboard-layout-big.svg)

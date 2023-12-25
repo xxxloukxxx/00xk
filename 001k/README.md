@@ -14,5 +14,5 @@ Clavier inspiré d'un Revuing 41 en 3x12+5
 
 ## Layout
 
-![](img/keyboard-layout.png)
+![](img/keyboard-layout.svg)
 

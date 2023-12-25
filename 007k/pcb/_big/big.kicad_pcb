@@ -5331,6 +5331,11 @@
       (net 56 "COL1") (pinfunction "2") (pintype "passive") (tstamp 21eecade-2d7a-4ce8-aee5-c0fe16c9b912))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.3 2.3) (drill 1.524) (layers "*.Cu" "B.Mask")
       (net 56 "COL1") (pinfunction "2") (pintype "passive") (tstamp cfb7fcf2-f753-42a1-b2f9-63b2a9e6876f))
+    (model "/home/cedric/Documents/Autres/Cedric/Keyb/00xk/007k/pcb/switch.step"
+      (offset (xyz 0 -1 4.5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
@@ -9951,6 +9956,11 @@
       (net 62 "COL7") (pinfunction "2") (pintype "passive") (tstamp 3991abe2-56e2-49aa-9bc9-cff38a0bfca9))
     (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.3 2.3) (drill 1.524) (layers "*.Cu" "B.Mask")
       (net 62 "COL7") (pinfunction "2") (pintype "passive") (tstamp e3d13b77-9afb-4284-8438-245b3bf5a9d9))
+    (model "/home/cedric/Documents/Autres/Cedric/Keyb/00xk/007k/pcb/switch.step"
+      (offset (xyz 0 -1 5))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
+    )
   )
 
   (footprint "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" (layer "F.Cu")
