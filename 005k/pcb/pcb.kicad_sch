@@ -1796,7 +1796,7 @@
     (pin "2" (uuid f3c3b7d2-38af-445f-99cf-d4d6bc284ab1))
     (pin "1" (uuid 6f871dbd-2b2e-4ba2-812d-464d5bde6f3d))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX34") (unit 1)
         )
@@ -1828,7 +1828,7 @@
     (pin "2" (uuid 3fdf825a-1a36-466e-9e0f-bd2ff13b3452))
     (pin "1" (uuid 46cda51b-ccdc-43c5-b350-631dc3bb474a))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D1") (unit 1)
         )
@@ -1854,7 +1854,7 @@
     (pin "2" (uuid 34caa25c-8f21-49b6-a32e-d7ade678b7ca))
     (pin "1" (uuid c7caaa41-b5e1-40a7-b70f-d3a9e9d7513f))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX33") (unit 1)
         )
@@ -1880,7 +1880,7 @@
     (pin "2" (uuid 35734ba9-0500-4ed1-84c6-5b6c6e3265bd))
     (pin "1" (uuid e15040e3-82f1-44bc-beeb-18237af423bf))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX30") (unit 1)
         )
@@ -1905,7 +1905,7 @@
     )
     (pin "1" (uuid 11e815d6-2264-47d4-a7e2-f62db3db5442))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "J102") (unit 1)
         )
@@ -1931,7 +1931,7 @@
     (pin "2" (uuid dba02dd6-1b0a-4178-ae0e-664bcdf491b4))
     (pin "1" (uuid b9f0760c-9632-4e3e-bd10-fb5aaf9bc1b7))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX6") (unit 1)
         )
@@ -1957,7 +1957,7 @@
     (pin "2" (uuid ffc8d3c7-350d-44f7-ac9a-11f84dbcde3a))
     (pin "1" (uuid 7e7802e6-aeea-41d3-9d6e-02532fb6598d))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX23") (unit 1)
         )
@@ -1983,7 +1983,7 @@
     (pin "2" (uuid d674ae9a-3c81-42d9-8515-8fbca437e2f9))
     (pin "1" (uuid 0a6dc087-fb30-44ce-8cea-45d4d2303242))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX42") (unit 1)
         )
@@ -2015,7 +2015,7 @@
     (pin "2" (uuid 68f7cba2-81b3-4b71-a830-06fd0e2ce622))
     (pin "1" (uuid 30461a7b-e2ea-4143-b15d-2217f2d59bf2))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D43") (unit 1)
         )
@@ -2041,7 +2041,7 @@
     (pin "2" (uuid 0191fd1c-736e-40b6-a27e-81b3026f071a))
     (pin "1" (uuid 1a8e0143-6361-4c36-8278-9babbce604e8))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX44") (unit 1)
         )
@@ -2066,7 +2066,7 @@
     )
     (pin "1" (uuid 9218d6f7-55c6-40af-a1bd-0407feb0f911))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "J106") (unit 1)
         )
@@ -2091,7 +2091,7 @@
     )
     (pin "1" (uuid e621d087-b05b-4798-afe3-fc58eaa2a6a6))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "#PWR03") (unit 1)
         )
@@ -2117,7 +2117,7 @@
     (pin "2" (uuid 9d7fa195-4712-4fd0-ac22-ca14b7e70a94))
     (pin "1" (uuid ad30b67c-443f-4915-b5ce-ebda88440b2e))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX14") (unit 1)
         )
@@ -2149,7 +2149,7 @@
     (pin "2" (uuid dafafd40-6941-4576-94f1-307990c83568))
     (pin "1" (uuid cc50091f-0322-4e3b-884b-6b47cd5eb232))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D9") (unit 1)
         )
@@ -2174,7 +2174,7 @@
     )
     (pin "1" (uuid b3bb3f51-ac0f-425b-aafb-96c39b5eb92b))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "J108") (unit 1)
         )
@@ -2200,7 +2200,7 @@
     (pin "2" (uuid 392f322e-9a64-42cf-9450-4636bb3514d9))
     (pin "1" (uuid 5b7a52d9-3527-4a97-90f4-82357557fa51))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX17") (unit 1)
         )
@@ -2232,7 +2232,7 @@
     (pin "2" (uuid 8c606505-6a21-4f9d-960b-7304268efe0f))
     (pin "1" (uuid 2575a7e9-1c80-4053-ada2-b982369196ce))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D41") (unit 1)
         )
@@ -2264,7 +2264,7 @@
     (pin "2" (uuid a0b6e2f7-157b-4505-870c-550dc0204a38))
     (pin "1" (uuid 6d6a25c4-8996-408d-86c7-be47b0b9c8c7))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D36") (unit 1)
         )
@@ -2296,7 +2296,7 @@
     (pin "2" (uuid 8179a157-28b3-49d7-979f-695e67358fbe))
     (pin "1" (uuid d12ebfbf-ab40-4e12-9185-def40cbc3d8e))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D18") (unit 1)
         )
@@ -2322,7 +2322,7 @@
     (pin "2" (uuid 3eec0880-b47f-4b65-97db-a13e22697f32))
     (pin "1" (uuid 3cce9594-027c-4f23-ba96-e434f1ee8887))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX10") (unit 1)
         )
@@ -2354,7 +2354,7 @@
     (pin "2" (uuid ad10becf-cc6b-4fe2-9ee6-7f62bd6d311d))
     (pin "1" (uuid 61dacc44-e2ef-4df1-aa92-ee178d2a2f45))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D13") (unit 1)
         )
@@ -2380,7 +2380,7 @@
     (pin "2" (uuid aba5457e-52ad-44d5-bb6f-68e294d81893))
     (pin "1" (uuid bed80c2d-69b6-4301-a064-fbb2f55f7b9e))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX8") (unit 1)
         )
@@ -2406,7 +2406,7 @@
     (pin "2" (uuid 0002b5ef-f35e-4ae9-902d-c8f6babdf7af))
     (pin "1" (uuid 7ccb15f3-359a-43c6-aea2-437bfea0b50a))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX24") (unit 1)
         )
@@ -2438,7 +2438,7 @@
     (pin "2" (uuid f4d5482c-3357-49e7-ab5e-c925fb81cfe1))
     (pin "1" (uuid 0db16fa3-7531-4aec-8650-cdc61e308b48))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D37") (unit 1)
         )
@@ -2470,7 +2470,7 @@
     (pin "2" (uuid c4af4b9a-01a9-4555-b107-d3909e65b66f))
     (pin "1" (uuid b3ab877a-dfd5-4ecc-801c-45d847f9486f))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D40") (unit 1)
         )
@@ -2502,7 +2502,7 @@
     (pin "2" (uuid fca00f37-83fb-495c-a1d8-5d1c48f0f5d8))
     (pin "1" (uuid 16cc87b5-f4f9-43d7-beeb-b58be82546b0))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D35") (unit 1)
         )
@@ -2527,7 +2527,7 @@
     )
     (pin "1" (uuid ca11df3a-98ec-42fd-9db4-32a90d14a501))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "J101") (unit 1)
         )
@@ -2559,7 +2559,7 @@
     (pin "2" (uuid 07395ac0-d490-41f2-9981-224e68da1886))
     (pin "1" (uuid 45e52967-c7a6-481b-903a-964b21f366a1))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D24") (unit 1)
         )
@@ -2585,7 +2585,7 @@
     (pin "2" (uuid bb338dde-a9be-494f-b645-29e788441fa6))
     (pin "1" (uuid 9c827565-bc2d-4d71-ba05-4e1b8794f767))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX4") (unit 1)
         )
@@ -2611,7 +2611,7 @@
     (pin "2" (uuid ae1d89a6-2fd7-4553-8f0b-f35cb12b62fc))
     (pin "1" (uuid 69e7bfe3-d66e-4866-90d0-2c9f94bb06b5))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX7") (unit 1)
         )
@@ -2637,7 +2637,7 @@
     (pin "2" (uuid 3a4267ee-a0e7-4cbf-9a4a-ab6f85e47199))
     (pin "1" (uuid 535e3bd4-a3bf-47f3-8b65-9d8cc009e08d))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX12") (unit 1)
         )
@@ -2663,7 +2663,7 @@
     (pin "2" (uuid eb375807-e62a-49f9-a66d-9638c52e5eb6))
     (pin "1" (uuid 40586135-baab-4cb1-b1b8-eccd457e17d7))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX40") (unit 1)
         )
@@ -2689,7 +2689,7 @@
     (pin "2" (uuid f131032a-3730-4ba7-871e-ba62e12b0605))
     (pin "1" (uuid c545cb9a-ce35-4f6c-8095-b423511cf954))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX2") (unit 1)
         )
@@ -2715,7 +2715,7 @@
     (pin "2" (uuid 3f532939-2e94-49f7-baad-8f693b391180))
     (pin "1" (uuid 3a5dd696-5859-44f6-9a52-ba9723fd32bc))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX45") (unit 1)
         )
@@ -2747,7 +2747,7 @@
     (pin "2" (uuid da90ac6e-eb3c-44eb-8484-72a258d89848))
     (pin "1" (uuid ddb75500-d765-4e13-ae0f-2fb16410cfff))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D29") (unit 1)
         )
@@ -2779,7 +2779,7 @@
     (pin "2" (uuid bbdc49d0-e174-4a17-8a0c-5ca4c26d7f2f))
     (pin "1" (uuid 1d9b52e4-216a-4321-879d-1420e5e26676))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D42") (unit 1)
         )
@@ -2805,7 +2805,7 @@
     (pin "2" (uuid 4d68e11c-72de-4b0a-a2b9-b217d4bebb63))
     (pin "1" (uuid a3138b48-c734-4258-9149-52f457f4fe75))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX26") (unit 1)
         )
@@ -2830,7 +2830,7 @@
     )
     (pin "1" (uuid 80948185-623b-4123-97dd-3ee944f32689))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "#PWR05") (unit 1)
         )
@@ -2858,7 +2858,7 @@
     (pin "4" (uuid 27851d69-65c1-4b67-ba22-26fded5ae7f0))
     (pin "3" (uuid b8547342-ce77-439f-af0f-a26654789952))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "J1") (unit 1)
         )
@@ -2890,7 +2890,7 @@
     (pin "2" (uuid 74ee9e33-60d3-4ce4-8f23-29db752cb86a))
     (pin "1" (uuid 5801b17a-0b7b-4d23-8b21-5287e66a5aa4))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D46") (unit 1)
         )
@@ -2922,7 +2922,7 @@
     (pin "2" (uuid 46c5e791-b118-4364-a794-d4731006809e))
     (pin "1" (uuid 892d8f7c-a829-4099-bdeb-a53cc75f478e))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D14") (unit 1)
         )
@@ -2948,7 +2948,7 @@
     (pin "2" (uuid c1a8508f-8e91-47b2-a5d5-c097e4edb823))
     (pin "1" (uuid 47603f45-74f8-4269-8e94-76dfffda8928))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX3") (unit 1)
         )
@@ -2974,7 +2974,7 @@
     (pin "2" (uuid 8f01f09c-5974-4330-969c-6a10be3cda62))
     (pin "1" (uuid 95b85255-0c2c-4dd3-8ec1-7de3e04ea60a))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX9") (unit 1)
         )
@@ -3006,7 +3006,7 @@
     (pin "2" (uuid 7daf313e-83c7-4295-8187-e77e7b709412))
     (pin "1" (uuid fb399970-ec8a-44bb-bdf1-4d2b32adb7d3))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D17") (unit 1)
         )
@@ -3031,7 +3031,7 @@
     )
     (pin "1" (uuid 43c73b9b-7507-4b14-83c4-2536f9efd0e9))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "J107") (unit 1)
         )
@@ -3057,7 +3057,7 @@
     (pin "2" (uuid a3d3381e-9f00-4e7c-a486-b1473a4af8b9))
     (pin "1" (uuid 74a44ccc-db6c-47be-944b-1c3a5427b46b))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX27") (unit 1)
         )
@@ -3083,7 +3083,7 @@
     (pin "2" (uuid f54f93a7-8e9c-495b-b6d4-bf8663aff7b1))
     (pin "1" (uuid 1fe84193-8bea-4bcb-9941-7eab139688f7))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX32") (unit 1)
         )
@@ -3115,7 +3115,7 @@
     (pin "2" (uuid 9d128b0e-c4d8-41ba-902e-1b5a5bdd31b0))
     (pin "1" (uuid 23718038-dcff-4484-8539-e66d8e7a2473))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D27") (unit 1)
         )
@@ -3141,7 +3141,7 @@
     (pin "2" (uuid 008a03b2-636c-4bcc-95cf-e961accf4f9e))
     (pin "1" (uuid 2e93bae0-9f7a-4b97-a5b3-3b15a71d9666))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX18") (unit 1)
         )
@@ -3173,7 +3173,7 @@
     (pin "2" (uuid 6e446a62-ab30-41c3-9f32-ef0f9740a202))
     (pin "1" (uuid edca4eef-7c48-4bf9-be82-8d4eed760e6c))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D16") (unit 1)
         )
@@ -3198,7 +3198,7 @@
     )
     (pin "1" (uuid d8748dbb-c3f3-420f-946d-264094f0bb2c))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "J110") (unit 1)
         )
@@ -3230,7 +3230,7 @@
     (pin "2" (uuid 2fd7a935-99f2-472b-99d6-6bce436d22f1))
     (pin "1" (uuid 4ad8aa6c-93e2-4f7e-840c-9afb9c3ba4be))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D11") (unit 1)
         )
@@ -3262,7 +3262,7 @@
     (pin "2" (uuid 93fa03d8-5b10-4368-ae59-1a08d120bc41))
     (pin "1" (uuid 22b6c9bc-4bb3-4674-801e-b7c9bdc3e2c3))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D5") (unit 1)
         )
@@ -3294,7 +3294,7 @@
     (pin "2" (uuid 1b29dd5b-a1df-4f1e-8df0-7543e791b6f9))
     (pin "1" (uuid 7952fbae-7b4b-4678-8ae9-e1e53de674f5))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D21") (unit 1)
         )
@@ -3326,7 +3326,7 @@
     (pin "2" (uuid 2d0c9f0d-f578-4266-a54f-1052277c6af1))
     (pin "1" (uuid c64e1d4b-fb89-496e-8893-fbd9b2c39546))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D33") (unit 1)
         )
@@ -3358,7 +3358,7 @@
     (pin "2" (uuid af1cb487-1658-48c7-b6af-7b7a1c5e15cd))
     (pin "1" (uuid ccf57037-4736-473e-a106-6b32b11a15e3))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D12") (unit 1)
         )
@@ -3383,7 +3383,7 @@
     )
     (pin "1" (uuid d4e2d748-6de4-4ed3-a5c8-d19b13fbdb10))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "#PWR07") (unit 1)
         )
@@ -3409,7 +3409,7 @@
     (pin "2" (uuid 5f9e114d-9c4f-4857-89ca-e0930f424113))
     (pin "1" (uuid f2fba7cc-a1be-49f7-8fe2-faa7fadcd82f))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX36") (unit 1)
         )
@@ -3435,7 +3435,7 @@
     (pin "2" (uuid feefa15e-0ad0-43bc-968f-5bb85c0225a9))
     (pin "1" (uuid 9dd7c07a-b8e2-479a-8a0e-845067ba2798))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX21") (unit 1)
         )
@@ -3467,7 +3467,7 @@
     (pin "2" (uuid b783747e-a445-4ce8-b24d-5d4a2ac29fd6))
     (pin "1" (uuid 3459a3f9-4e91-4d2d-bd0b-7f29d4b32ec1))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D39") (unit 1)
         )
@@ -3499,7 +3499,7 @@
     (pin "2" (uuid 8c2123fe-2a76-4c32-a23e-b8dc2c298767))
     (pin "1" (uuid 781b6bf3-f0eb-4e45-8e34-4e3e941130d1))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D4") (unit 1)
         )
@@ -3531,7 +3531,7 @@
     (pin "2" (uuid 7fb9c079-dc74-4223-afe1-7c5b4778ff10))
     (pin "1" (uuid 034119b5-41d7-448e-98bf-7a62f1a735ff))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D15") (unit 1)
         )
@@ -3563,7 +3563,7 @@
     (pin "2" (uuid 82569c14-0916-4b37-9639-e3c6a7cb3bf2))
     (pin "1" (uuid 5ed498df-341a-4d8d-b7d2-f9768ce35fb1))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D3") (unit 1)
         )
@@ -3595,7 +3595,7 @@
     (pin "2" (uuid 8d145794-fc41-4eba-a8ec-dd92b23ab791))
     (pin "1" (uuid 075a7e4c-8465-4d80-a2ac-10ac11163ded))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D20") (unit 1)
         )
@@ -3621,7 +3621,7 @@
     (pin "2" (uuid 25f46af5-aecc-4601-a474-89240a6366cd))
     (pin "1" (uuid 7ed7bddc-1cda-4614-8d2b-f653e747a682))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX43") (unit 1)
         )
@@ -3646,7 +3646,7 @@
     )
     (pin "1" (uuid 1ac518f9-6322-4e4a-aaa5-3b24c66d0ed0))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "#PWR04") (unit 1)
         )
@@ -3694,7 +3694,7 @@
     (pin "10" (uuid 2b579115-de68-4081-98a1-3bb7c181e479))
     (pin "12" (uuid 45e0c125-c29a-4e83-9668-6ad86081fce0))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "U1") (unit 1)
         )
@@ -3711,7 +3711,7 @@
     (property "Value" "MX" (at 132.9649 129.54 0)
       (effects (font (size 0.508 0.508)) hide)
     )
-    (property "Footprint" "_mx:MX-Alps-Hybrid-3U-ReversedStabilizers" (at 132.08 129.54 0)
+    (property "Footprint" "_mx:MX-Alps-Hybrid-2.75U-ReversedStabilizers" (at 132.08 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 132.08 129.54 0)
@@ -3720,7 +3720,7 @@
     (pin "2" (uuid 522bde6c-867c-4d14-b6a2-f7d8f52c2e09))
     (pin "1" (uuid 21a71a44-730f-4162-8463-7f974f9db53f))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX41") (unit 1)
         )
@@ -3746,7 +3746,7 @@
     (pin "2" (uuid 87ec3bb5-8db3-4577-8e33-5d240b8f5a55))
     (pin "1" (uuid a8519185-889b-4117-a4f0-3598921d895d))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX11") (unit 1)
         )
@@ -3772,7 +3772,7 @@
     (pin "2" (uuid df065ff3-fbe4-41a3-a82c-750153d74b6f))
     (pin "1" (uuid 5bf9ac3e-8b73-47ce-abe3-70f9e9ba818d))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX16") (unit 1)
         )
@@ -3804,7 +3804,7 @@
     (pin "2" (uuid bb9d76b5-d908-4d3e-a67e-e97366927fc6))
     (pin "1" (uuid 9425d65e-8edb-49e1-881b-bedf1d259c10))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D2") (unit 1)
         )
@@ -3836,7 +3836,7 @@
     (pin "2" (uuid f3f5b9a0-9fcf-44a3-8627-dcce064ce172))
     (pin "1" (uuid 6cb7981b-4efb-4fc4-94b4-491d1a9148f1))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D6") (unit 1)
         )
@@ -3861,7 +3861,7 @@
     )
     (pin "1" (uuid c33f0ec8-91f0-4086-ac63-e220fb934026))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "J104") (unit 1)
         )
@@ -3886,7 +3886,7 @@
     )
     (pin "1" (uuid 3d8f2c4d-6c50-4737-a2fe-d83fca6b311c))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "J109") (unit 1)
         )
@@ -3918,7 +3918,7 @@
     (pin "2" (uuid bd8b78ca-7d4f-43ad-b510-bc46ab31477b))
     (pin "1" (uuid 7211a3e9-b022-4e4b-8c12-e1233950816a))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D44") (unit 1)
         )
@@ -3950,7 +3950,7 @@
     (pin "2" (uuid a8348219-dd60-4dbb-a664-8123ffa4e128))
     (pin "1" (uuid c9e1c083-bad8-4672-9635-b7ab8ad6f53e))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D19") (unit 1)
         )
@@ -3982,7 +3982,7 @@
     (pin "2" (uuid 750da771-5e33-4437-bd2d-23d363dcbb19))
     (pin "1" (uuid 08b94d26-f8e3-4e0c-8dcf-213eeb2cb209))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D32") (unit 1)
         )
@@ -4007,7 +4007,7 @@
     )
     (pin "1" (uuid f0d90e8e-1484-4011-8193-9e568e5873a4))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "J105") (unit 1)
         )
@@ -4039,7 +4039,7 @@
     (pin "2" (uuid 2104170a-a77d-4a16-8226-67e42aeb22dc))
     (pin "1" (uuid 8eea19e2-b9a6-4b26-bfbb-20ea6ac17468))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D22") (unit 1)
         )
@@ -4065,7 +4065,7 @@
     (pin "2" (uuid 981aba25-62dd-49a7-a802-b7cd9e3ccd4c))
     (pin "1" (uuid a813714c-94b7-4072-a1ce-39ec3f1a7812))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX39") (unit 1)
         )
@@ -4090,7 +4090,7 @@
     )
     (pin "1" (uuid 7bc5464c-560f-4278-b757-e9d422888a3a))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "#PWR06") (unit 1)
         )
@@ -4116,7 +4116,7 @@
     (pin "2" (uuid e8ffe0aa-e4ba-4385-aefb-ae5a664332db))
     (pin "1" (uuid f77a5f53-c005-4eb2-8894-eb92c55db414))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX20") (unit 1)
         )
@@ -4142,7 +4142,7 @@
     (pin "2" (uuid 0147dc5b-3409-45b2-b7b7-7ab98e70ce2c))
     (pin "1" (uuid 51b16b46-42be-4f88-a577-14558ad8351e))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX46") (unit 1)
         )
@@ -4167,7 +4167,7 @@
     )
     (pin "1" (uuid 90383e04-5dbb-4752-a42a-d12ac7a9c190))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "#PWR01") (unit 1)
         )
@@ -4199,7 +4199,7 @@
     (pin "2" (uuid 26e9ed74-a533-4a70-b37d-fcb0162bbd38))
     (pin "1" (uuid 7453f87f-0b47-49d6-aae2-728ef8fac499))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D30") (unit 1)
         )
@@ -4225,7 +4225,7 @@
     (pin "2" (uuid 93285453-2a58-4f5a-a4f7-71db0ece0447))
     (pin "1" (uuid b66b5b17-1ef8-4801-9d28-e98030efa690))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX31") (unit 1)
         )
@@ -4257,7 +4257,7 @@
     (pin "2" (uuid 3f0709fc-90d1-433c-9260-e3a5fbd6a9d7))
     (pin "1" (uuid 2e7b41cd-032d-4aaa-9177-5ea3c2c045a3))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D23") (unit 1)
         )
@@ -4283,7 +4283,7 @@
     (pin "2" (uuid fe0937d9-f744-4f86-8ea3-add9afd3ed01))
     (pin "1" (uuid cb434900-9979-4cf5-a791-563b17c6b8af))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX25") (unit 1)
         )
@@ -4315,7 +4315,7 @@
     (pin "2" (uuid 02cf5a97-80eb-421d-9b48-c1b852fb8d3a))
     (pin "1" (uuid 7ca3eb79-987e-4bca-a2ba-4bbee7836970))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D34") (unit 1)
         )
@@ -4347,7 +4347,7 @@
     (pin "2" (uuid 5fdaa6e5-cb9e-4224-8216-44a2ad97c603))
     (pin "1" (uuid 2906a7e4-fc8e-4547-86f8-0dedc70011f7))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D28") (unit 1)
         )
@@ -4373,7 +4373,7 @@
     (pin "2" (uuid 94d5ace2-97b2-4ab4-9e8c-0fa6ea00ef6b))
     (pin "1" (uuid 72fa7622-ad5f-47ef-b708-f3dd39076a89))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX38") (unit 1)
         )
@@ -4399,7 +4399,7 @@
     (pin "2" (uuid 336efc62-dd00-453c-80fd-2f5d3c0941fc))
     (pin "1" (uuid 1277ff63-1cf0-4f0e-8d4f-4bd42adacf89))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX29") (unit 1)
         )
@@ -4431,7 +4431,7 @@
     (pin "2" (uuid 67798f1e-a22c-4b9b-96e4-25e5a5ad1832))
     (pin "1" (uuid 8ecf51fb-7bfc-48a6-8aaa-95d8baacd985))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D45") (unit 1)
         )
@@ -4463,7 +4463,7 @@
     (pin "2" (uuid a3407d4d-a0f7-4d13-948a-84e48a0af732))
     (pin "1" (uuid 3d13315a-a801-4ecf-9192-071e067afc5b))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D7") (unit 1)
         )
@@ -4495,7 +4495,7 @@
     (pin "2" (uuid 67e6558e-3bab-489b-9ca3-166ca2003361))
     (pin "1" (uuid 6ca8de29-c697-4dee-821e-fe833a703721))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D8") (unit 1)
         )
@@ -4527,7 +4527,7 @@
     (pin "2" (uuid c032cfa2-64ee-459c-bc06-8a52371b7d5f))
     (pin "1" (uuid 463701fc-dff9-4fa8-b12e-0ae4eed3a604))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D25") (unit 1)
         )
@@ -4553,7 +4553,7 @@
     (pin "2" (uuid 29581ae6-4f90-4f02-a81a-9f056da83542))
     (pin "1" (uuid b46001b8-34cf-4a3d-a612-00b10be74c36))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX28") (unit 1)
         )
@@ -4579,7 +4579,7 @@
     (pin "2" (uuid c210386e-f649-480e-a869-2a9504e34374))
     (pin "1" (uuid f0463abc-8ced-4f98-8737-e028ce4ad354))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX13") (unit 1)
         )
@@ -4605,7 +4605,7 @@
     (pin "2" (uuid aa03556f-467d-40f7-a417-14b1686d976f))
     (pin "1" (uuid 1b91271e-4d96-405f-bdc7-9333eab76b67))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX1") (unit 1)
         )
@@ -4637,7 +4637,7 @@
     (pin "2" (uuid 4db8db68-3bde-4a95-95ed-00a979274c2e))
     (pin "1" (uuid 30638095-3d98-47ff-86ac-fd15729555ad))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D31") (unit 1)
         )
@@ -4669,7 +4669,7 @@
     (pin "2" (uuid 2b676134-1eac-401c-b46b-adc38a2a0bd4))
     (pin "1" (uuid 7f30053b-162f-4157-91c2-e69ffa491067))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D10") (unit 1)
         )
@@ -4694,7 +4694,7 @@
     )
     (pin "1" (uuid 6065d952-85b7-4e54-946f-4b8e58902e90))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "#PWR02") (unit 1)
         )
@@ -4720,7 +4720,7 @@
     (pin "2" (uuid 2fb9adf2-6024-4932-a5e7-ad0cdfa59060))
     (pin "1" (uuid 2f066f06-e905-4e38-a72b-473d046edb5c))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX19") (unit 1)
         )
@@ -4746,7 +4746,7 @@
     (pin "2" (uuid 414bde06-5697-4bf1-850d-b88a742eefce))
     (pin "1" (uuid 6136f854-20bd-4a72-952e-d107ebe78ec9))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX22") (unit 1)
         )
@@ -4772,7 +4772,7 @@
     (pin "2" (uuid 64007e4f-6e1b-48bc-8ff3-de49f271b3d6))
     (pin "1" (uuid b501d7d1-ef03-4287-bab2-5f0ac7add2d4))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX15") (unit 1)
         )
@@ -4798,7 +4798,7 @@
     (pin "2" (uuid 0cb38a60-1f4c-402f-80c3-cace99f56880))
     (pin "1" (uuid e64ef515-40e5-4a95-bc4c-99a838c61c6c))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX35") (unit 1)
         )
@@ -4824,7 +4824,7 @@
     (pin "2" (uuid fd26e560-8057-4239-84cf-5351bcf20e0e))
     (pin "1" (uuid 00edbd22-b5c4-467c-a6e8-a3ece1fb20e3))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX5") (unit 1)
         )
@@ -4850,7 +4850,7 @@
     (pin "2" (uuid 310c7c0e-4cad-4553-b137-d1dd6d0344d1))
     (pin "1" (uuid b906cefd-fa5f-435f-98ad-f1ebbd9d7f5b))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "MX37") (unit 1)
         )
@@ -4875,7 +4875,7 @@
     )
     (pin "1" (uuid 548cbbf7-6426-46ad-8a4d-dfe3337bd3ca))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "J103") (unit 1)
         )
@@ -4907,7 +4907,7 @@
     (pin "2" (uuid 2cd89abd-e8fa-4d79-8214-087327b65841))
     (pin "1" (uuid 606c3f11-667b-4865-bb9c-c2b7c8b2f4ea))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D38") (unit 1)
         )
@@ -4939,7 +4939,7 @@
     (pin "2" (uuid 52edd0cc-d159-4091-a6e3-344dcf8310f1))
     (pin "1" (uuid 669890c1-8d8d-4db1-9e38-ec18bd84ac93))
     (instances
-      (project "pcb-rounded"
+      (project "pcb"
         (path "/cdaca29c-9183-48ca-8eaa-726fa5d440ea"
           (reference "D26") (unit 1)
         )
