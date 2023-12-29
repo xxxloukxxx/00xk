@@ -14,5 +14,10 @@ AUDIO_ENABLE = no           # Audio output
 LTO_ENABLE = yes
 KEY_LOCK_ENABLE = yes
 
+OLED_ENABLE = yes
+
+OLED_DRIVER = ssd1306
+OLED_TRANSPORT = i2c
+
 
 #AUTO_SHIFT_ENABLE = yes

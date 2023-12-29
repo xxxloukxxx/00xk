@@ -42,24 +42,24 @@
     <!-- Outer Border -->
     <rect x="217" y="217"
           width="79" height="52"
-          rx="5" fill="#cccccc" class="outer border"/>
+          rx="5" fill="#00773a" class="outer border"/>
     
     <!-- Outer Fill -->
     <rect x="217" y="217"
           width="79" height="52"
-          rx="5" fill="#cccccc"/>
+          rx="5" fill="#00773a"/>
     
 
     
       <!-- Inner Border -->
       <rect x="223" y="220"
             width="67" height="40"
-            rx="5" fill="#fcfcfc" class="inner border"/>
+            rx="5" fill="#2b8f4f" class="inner border"/>
       
       <!-- Inner Fill -->
       <rect x="223" y="220"
             width="67" height="40"
-            rx="5" fill="#fcfcfc"/>
+            rx="5" fill="#2b8f4f"/>
       
       
 
@@ -786,24 +786,24 @@
     <!-- Outer Border -->
     <rect x="109" y="230.5"
           width="65.5" height="52"
-          rx="5" fill="#00773a" class="outer border"/>
+          rx="5" fill="#f8c200" class="outer border"/>
     
     <!-- Outer Fill -->
     <rect x="109" y="230.5"
           width="65.5" height="52"
-          rx="5" fill="#00773a"/>
+          rx="5" fill="#f8c200"/>
     
 
     
       <!-- Inner Border -->
       <rect x="115" y="233.5"
             width="53.5" height="40"
-            rx="5" fill="#2b8f4f" class="inner border"/>
+            rx="5" fill="#fff14b" class="inner border"/>
       
       <!-- Inner Fill -->
       <rect x="115" y="233.5"
             width="53.5" height="40"
-            rx="5" fill="#2b8f4f"/>
+            rx="5" fill="#fff14b"/>
       
       
 
